@@ -19,7 +19,7 @@ last_color = 'blue'
 colors.remove(last_color)
 print(f"The last color to survive was {last_color.lower()}!")
 
-# Now let's sort
+# Sorting
 colors = ['red', 'yellow', 'blue']
 print(sorted(colors))
 print(sorted(colors, reverse=True))
