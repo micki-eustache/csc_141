@@ -1,0 +1,4 @@
+In Python you can perform calculations
+In Python you can store, modify, and analyze data
+In Python you can make fun programs like rolling die and language generation
+In Python you can make games and text adventures
